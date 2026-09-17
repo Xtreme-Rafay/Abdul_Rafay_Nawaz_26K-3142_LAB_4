@@ -24,8 +24,3 @@ This repository contains C programming solutions for **Lab 4**, focusing on foun
 | **Task 8** | Pass / Fail Evaluator | Relational comparison (`>=`) |
 
 ---
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/Xtreme-Rafay/PF-Lab-4.git](https://github.com/Xtreme-Rafay/PF-Lab-4.git)
