@@ -22,3 +22,5 @@ This repository contains C programming solutions for **Lab 4**, focusing on foun
 | **Task 6** | Celsius to Fahrenheit Conversion | Formula implementation, float operations |
 | **Task 7** | Average of Three Numbers | Multi-variable input and average formula |
 | **Task 8** | Pass / Fail Evaluator | Relational comparison (`>=`) |
+
+---
